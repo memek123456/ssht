@@ -11,5 +11,5 @@ $short='sbsXV';
 $asli='https://github.com/memek12345';
 //ganti url apabila link shortlink berubah
 while(true){
-ssht($url1-4,$short,$asli);
+ssht($url4,$short,$asli);
 }
