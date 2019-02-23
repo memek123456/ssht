@@ -6,9 +6,9 @@ $url3='https://realsht.pw';
 $url4='https://realsht.mobi';
 //config
 //isi url pendek yang belakang nya aja
-$short='xxxxxxxxx';
+$short='sbsXV';
 //isi url asli yang di short
-$asli='xxxxxxxxxxxx';
+$asli='https://github.com/memek12345';
 //ganti url apabila link shortlink berubah
 while(true){
 ssht($url1,$short,$asli);
